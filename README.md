@@ -16,7 +16,7 @@ The repository hosts reference library to be used for the Andorid applicatios cr
 
 1. Download the contents of repo. The repo contains all the module of StreetHawk SDK. You may choose to import all or any selected combination of modules in your project.
 2. Right click on your application project - Properties - Android,in Library section, click on Add and select SDK modules you wish to add in your project.
-3. Add Google Play Services in your application.
+3. For push module, Add Google Play Services in your application.
 * Install Google Play Services from Android’s SDK Manager by selecting Google Play services in the Extras section.
 * In Eclipse, click on File - Import - Android - Existing Android Code Into Workspace - browse to Android the SDK Folder.
 * Select extras - google - google_play_services - libproject and click on finish.
